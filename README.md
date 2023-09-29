@@ -2,7 +2,11 @@
 
 <h3>Iris Classification</h3>
 
-Iris classification is referred to as the "Hello World" of Machine Learning. Iris.csv file is iris flowers dataset that contains numeric attributes, and it is perfect to learn about supervised ML algorithms, mainly how to load and handle data. Also, since this is a small dataset, it can easily fit in memory without requiring special transformations capabilities or scaling.
+Iris classification is referred to as the "Hello World" of Machine Learning. Iris.csv file is iris flowers dataset that contains numeric attributes, and it is perfect to learn about supervised ML algorithms, mainly how to load and handle data. Also, since this is a small dataset, it can easily fit in memory without requiring special transformations capabilities or scaling
+
+<h3>Music Recommendation System</h3>
+
+A music recommendation system is a machine learning system that predicts songs that users might like to hear based on their previous listening history. These systems are built using machine learning and artificial intelligence. The datasets used are songs.csv, songs_extra_info.csv, members.csv, train.csv & test.csv. 
 
 <h3>Image To Pencil Sketch Using Python</h3>
 
