@@ -1,4 +1,4 @@
-# DataScience_LGM
+# Data Analytics
 
 <h3>Iris Classification</h3>
 
